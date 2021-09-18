@@ -1,0 +1,6 @@
+module Pods_Carbon {
+  umbrella header "Pods-Carbon-umbrella.h"
+
+  export *
+  module * { export * }
+}
